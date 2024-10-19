@@ -1,4 +1,7 @@
-const { nanoid } = require('nanoid');
+// 24/05/2021 created by Atqa Munzir for Submission Dicoding 'Belajar Membuat Aplikasi Back-End untuk Pemula'
+// 19/10/2024 modified by Atqa Munzir for Submission Dicoding 'Belajar Back-End untuk Pemula dengan JavaScript'
+
+const { nanoid } = require("nanoid");
 
 const currentTime = new Date().toISOString();
 

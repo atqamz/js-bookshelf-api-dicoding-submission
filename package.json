@@ -1,11 +1,11 @@
 {
   "name": "bookshelf-api",
   "version": "1.0.0",
-  "description": "Submission Dicoding 'Belajar Membuat Aplikasi Back-End untuk Pemula'",
+  "description": "24/05/2021 -Submission Dicoding 'Belajar Membuat Aplikasi Back-End untuk Pemula' || 19/10/2024 - Submission Dicoding 'Belajar Back-End untuk Pemula dengan JavaScript'",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./src/server.js",
+    "start": "node ./src/server.js",
     "lint": "eslint ./ --fix"
   },
   "keywords": [
